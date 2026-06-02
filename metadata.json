@@ -1,0 +1,8 @@
+{
+  "name": "AI Output Validation Layer",
+  "description": "An AI Validation Engine & Trust Copilot that analyzes AI-generated text to evaluate confidence, assess risks, spot research gaps, check ATS compatibility, and provide human-in-the-loop verification checklists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
